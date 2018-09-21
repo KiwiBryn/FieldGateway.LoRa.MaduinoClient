@@ -1,4 +1,4 @@
-# FieldGateway.LoRa.MaduinoClient-
+# FieldGateway.LoRa.MaduinoClient
 Sample MakerFabs Maduinio client for my [LoRa](https://lora-alliance.org/) field gateway projects
 
 My Maduino client uses
